@@ -1,0 +1,8 @@
+app_identifier("com.500tech.udemy.fastlane") # The bundle identifier of your app
+apple_id("info@500tech.com") # Your Apple email address
+
+itc_team_id("2198070") # App Store Connect Team ID
+team_id("7L5AYZ6DQ7") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
