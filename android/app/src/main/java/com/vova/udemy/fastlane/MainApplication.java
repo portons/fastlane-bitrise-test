@@ -1,4 +1,4 @@
-package com.500.udemy.fastlane;
+package com.vova.udemy.fastlane;
 
 import android.app.Application;
 

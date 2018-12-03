@@ -1070,7 +1070,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.500tech.udemy.fastlane;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vova.udemy.fastlane;
 				PRODUCT_NAME = UdemyFastlane;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1088,7 +1088,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.500tech.udemy.fastlane;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vova.udemy.fastlane;
 				PRODUCT_NAME = UdemyFastlane;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
